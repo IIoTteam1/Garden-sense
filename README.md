@@ -41,4 +41,4 @@ Watering
 
 **Wiring**
 
-![image](https://user-images.githubusercontent.com/56578804/71705530-3831bd80-2e1b-11ea-860d-932aceb50bae.png)
+![image](https://user-images.githubusercontent.com/56578804/71705572-6adbb600-2e1b-11ea-92c0-2f016a7e8fea.png)
