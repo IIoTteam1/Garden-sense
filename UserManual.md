@@ -1,3 +1,4 @@
+This user manual just give you an operation of our IoT project. You can refer our solution to make your own.
 
 1. Go to see Hardware Folder --> All components in this project (Hardware/Components.md)
 2. Assembly components to Raspberry PI refer by Wiring diagram (Hardware/Wiring.md)
@@ -8,6 +9,13 @@
 4. Create your IoT Platform at Cayenne my devices https://cayenne.mydevices.com/
 5. It has both Desktop and Mobile platform that can syn together.
 
-*RemarkII : More information about Cayenne for raspberry PI, pls see this link* https://github.com/myDevicesIoT/Cayenne-MQTT-Python
+*RemarkII : Information about Cayenne for raspberry PI, pls see this link* https://github.com/myDevicesIoT/Cayenne-MQTT-Python
 
+6. After install all librraly to Raspberry PI, You can test a testing code first. Go to ---> --.py--
+   for testing that your components are connect to RPI correctly.
+7. Using this file --.py-- to run your project 
+
+*RemarkIII : Pls see Authorized token of Cayenne using API device, pls refer this link* https://www.instructables.com/id/Cayenne-Python-and-MQTT-Tutorials-Digital-%C4%B0nput/
+
+8. See your dashboard at Cayenne and make your own IoT platform.
 
