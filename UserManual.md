@@ -7,11 +7,11 @@ This user manual just give you operation of our IoT project. You can refer our s
 *RemarkI : How to use MQTT Paho for beginner, pls see this link* http://www.steves-internet-guide.com/into-mqtt-python-client/
 
 4. Create your IoT Platform at Cayenne my devices https://cayenne.mydevices.com/
-5. It has both Desktop and Mobile platform that can syn together.
+5. It has both Desktop and Mobile platform that can sync together.
 
 *RemarkII : Information about Cayenne for raspberry PI, pls see this link* https://github.com/myDevicesIoT/Cayenne-MQTT-Python
 
-6. After install all librraly to Raspberry PI, You can test a testing code first. Go to ---> --.py--
+6. After install all libraly to Raspberry PI, You can test a testing code first. Go to ---> --.py--
    for testing that your components are connect to RPI correctly.
 7. Using this file --.py-- to run your project 
 
