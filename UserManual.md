@@ -1,5 +1,6 @@
 This user manual just give you operation of our IoT project. You can refer our solution to make your own.
 
+
 1. Go to see Hardware Folder --> All components in this project (Hardware/Components.md)
 2. Assembly components to Raspberry PI refer by Wiring diagram (Hardware/Wiring.md)
 3. Go to see Software Folder --> Download all program to your RPI device
@@ -18,5 +19,6 @@ This user manual just give you operation of our IoT project. You can refer our s
 *RemarkIII : Pls see Authorized token of Cayenne using API device, pls refer this link* https://www.instructables.com/id/Cayenne-Python-and-MQTT-Tutorials-Digital-%C4%B0nput/
 
 8. See your dashboard at Cayenne and make your own IoT platform.
+
 ![image](https://user-images.githubusercontent.com/56578804/71784102-8bc62600-302a-11ea-8b14-555ab0a99d50.png)
 
