@@ -17,6 +17,8 @@ This user manual just give you operation of our IoT project. You can refer our s
 7. Using this file --IIoTTeam1.py-- to run your project 
 
 *RemarkIII : Pls see Authorized token of Cayenne using API device, pls refer this link* https://www.instructables.com/id/Cayenne-Python-and-MQTT-Tutorials-Digital-%C4%B0nput/
+![image](https://user-images.githubusercontent.com/56578804/71845615-a7512f80-3103-11ea-9bcc-2605ee25e60b.png)
+
 
 8. See your dashboard at Cayenne and make your own IoT platform.
 
