@@ -12,9 +12,9 @@ This user manual just give you operation of our IoT project. You can refer our s
 
 *RemarkII : Information about Cayenne for raspberry PI, pls see this link* https://github.com/myDevicesIoT/Cayenne-MQTT-Python
 
-6. After install all libraly to Raspberry PI, You can test a testing code first. Go to ---> --.py--
+6. After install all libraly to Raspberry PI, You can test a testing code first. Go to ---> --xx_testing.py--
    for testing that your components are connect to RPI correctly.
-7. Using this file --.py-- to run your project 
+7. Using this file --IIoTTeam1.py-- to run your project 
 
 *RemarkIII : Pls see Authorized token of Cayenne using API device, pls refer this link* https://www.instructables.com/id/Cayenne-Python-and-MQTT-Tutorials-Digital-%C4%B0nput/
 
