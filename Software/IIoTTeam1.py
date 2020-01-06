@@ -79,6 +79,9 @@ while True:
             relay.on()
             mqttc.publish(air_value, payload=Airquality, retain=True)
             return
+           
+        GPIO.add_event_detect(16, GPIO.RISING)
+        GPIO.add_event_callback(16, action)
 
         try:
             while True:
