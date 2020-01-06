@@ -6,6 +6,7 @@ This user manual just give you operation of our IoT project. You can refer our s
 3. Go to see Software Folder --> Download all program to your RPI device
 
 *RemarkI : How to use MQTT Paho for beginner, pls see this link* http://www.steves-internet-guide.com/into-mqtt-python-client/
+![image](https://user-images.githubusercontent.com/56578804/71845781-0616a900-3104-11ea-90a2-f847fad12c38.png)
 
 4. Create your IoT Platform at Cayenne my devices https://cayenne.mydevices.com/
 5. It has both Desktop and Mobile platform that can sync together.
