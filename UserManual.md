@@ -6,6 +6,7 @@ This user manual just give you operation of our IoT project. You can refer our s
 3. Go to see Software Folder --> Download all program to your RPI device
 
 *RemarkI : How to use MQTT Paho for beginner, pls see this link* http://www.steves-internet-guide.com/into-mqtt-python-client/
+
 ![image](https://user-images.githubusercontent.com/56578804/71845781-0616a900-3104-11ea-90a2-f847fad12c38.png)
 
 4. Create your IoT Platform at Cayenne my devices https://cayenne.mydevices.com/
@@ -18,6 +19,7 @@ This user manual just give you operation of our IoT project. You can refer our s
 7. Using this file --IIoTTeam1.py-- to run your project 
 
 *RemarkIII : Pls see Authorized token of Cayenne using API device, pls refer this link* https://www.instructables.com/id/Cayenne-Python-and-MQTT-Tutorials-Digital-%C4%B0nput/
+
 ![image](https://user-images.githubusercontent.com/56578804/71845615-a7512f80-3103-11ea-9bcc-2605ee25e60b.png)
 
 
