@@ -8,3 +8,5 @@ EE5329701 Industrial Internet of Things : Technologies and Applications
 *Conception flowchart*
 
 ![image](https://user-images.githubusercontent.com/56578804/71783643-ae554080-3024-11ea-8325-ad750185c086.png)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/watch?v=SFIupfq7j8g/0.jpg)](https://www.youtube.com/watch?v=SFIupfq7j8g)
