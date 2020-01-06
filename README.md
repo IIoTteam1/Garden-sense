@@ -2,8 +2,8 @@
 EE5329701 Industrial Internet of Things : Technologies and Applications
 
  An IoT device that combined many sensors to manage and monitor your garden by Cayenne mydevices IoT platform. 
-\nOur device can measure temperature & humidity (DHT22), soid moisture and also has smoke detection (MQ 135).
-\nif your garden situation is abnormal, User will recieve notified e-mail from apllication.
+<p>Our device can measure temperature & humidity (DHT22), soid moisture and also has smoke detection (MQ 135).</p>
+<p>if your garden situation is abnormal, User will recieve notified e-mail from apllication.</p>
 
 *Image of our project*
 
