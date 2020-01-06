@@ -1,7 +1,7 @@
 # Garden-sense
 EE5329701 Industrial Internet of Things : Technologies and Applications
 
-*IMAGE OF OUR PROJECT*
+*Image of our project*
 
 ![image](https://user-images.githubusercontent.com/56578804/71828436-4e6ea080-30dd-11ea-879f-927911690036.png)
 
